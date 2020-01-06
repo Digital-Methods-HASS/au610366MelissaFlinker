@@ -36,7 +36,7 @@ Then you must collect the package "Hmisc" short for Harrell Miscellaneous which 
 To load the "Hmisc" package use following steps:
 
 - Install the Hmisc packages for R (like you did with tidyverse)
-- Install mdbtools version 0.7.1 by homebrew: brew install mdbtools 
+- Install mdbtools version 0.7.1 by homebrew by typing the following into the "Terminal" application: brew install mdbtools 
 - To install homebrew on Mac OS go to the "Terminal" application and run the following command into a single line of the terminal: 
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 
